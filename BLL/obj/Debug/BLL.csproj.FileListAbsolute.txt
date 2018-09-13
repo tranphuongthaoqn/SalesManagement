@@ -1,0 +1,10 @@
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\BLL.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\BLL.pdb
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\DAL.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\Entity.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\DAL.pdb
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\bin\Debug\Entity.pdb
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\obj\Debug\BLL.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\BLL\obj\Debug\BLL.pdb

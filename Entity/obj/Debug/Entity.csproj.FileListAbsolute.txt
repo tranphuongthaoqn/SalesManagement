@@ -1,0 +1,6 @@
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\bin\Debug\Entity.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\bin\Debug\Entity.pdb
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\obj\Debug\Entity.dll
+D:\Phần mềm bán hàng\1. SALES MANAGEMENT\Entity\obj\Debug\Entity.pdb
